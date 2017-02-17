@@ -1,0 +1,8 @@
+C:\Users\Colin\AppData\Local\Programs\Python\Python35-32\Scripts\pip
+
+use that pathway, then use "install <module>"
+
+example
+C:\Users\Colin\AppData\Local\Programs\Python\Python35-32\Scripts\pip install numpy
+
+type into PowerShell/cmd and enter package to install
